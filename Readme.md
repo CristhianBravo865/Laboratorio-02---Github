@@ -3,7 +3,7 @@
 ## Integrantes:
 - Albert Riveros Vilca
 - Rodrigo Estefanero Palma
-- Gabriel Quispe Mamani
+- Jose Gabriel Quispe Mamani
 - Cristian Bravo Arredondo
 
 ## Descripción del Proyecto:
